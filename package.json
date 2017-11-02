@@ -1,6 +1,6 @@
 {
   "name": "generator-phaser-app",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Basic Phaser app",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,13 @@
   "license": "MIT",
   "dependencies": {
     "yeoman-generator": "^2.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisovap2013/generator-phaser-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/denisovap2013/generator-phaser-app/issues"
+  },
+  "homepage": "https://github.com/denisovap2013/generator-phaser-app#readme"
 }
