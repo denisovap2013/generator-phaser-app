@@ -1,0 +1,14 @@
+{
+  "name": "_template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^2.9.1"
+  },
+  "license": "MIT"
+}

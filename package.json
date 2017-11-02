@@ -1,0 +1,21 @@
+{
+  "name": "generator-phaser-app",
+  "version": "1.0.1",
+  "description": "Basic Phaser app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Everything works fine\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "web-app",
+    "phaser",
+    "phaser-app",
+    "html5"
+  ],
+  "author": "denisovap2013",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^2.0.1"
+  }
+}
